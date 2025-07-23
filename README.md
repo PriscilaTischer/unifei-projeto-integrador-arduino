@@ -3,7 +3,7 @@
 ![Foto da Apresentação](link_para_foto_da_apresentacao_aqui) 
 ## 📝 Sobre o Projeto
 
-[cite_start]Este repositório documenta o desenvolvimento do Projeto Integrador (P.I.) do curso de Bacharelado em Ciência e Tecnologia da Universidade Federal de Itajubá (UNIFEI), realizado em Junho/Julho de 2025[cite: 2, 5, 6, 8]. O objetivo foi aplicar conceitos fundamentais de programação e eletrônica através de uma série de desafios práticos utilizando a plataforma Arduino.
+Este repositório documenta o desenvolvimento do Projeto Integrador (P.I.) do curso de Bacharelado em Ciência e Tecnologia da Universidade Federal de Itajubá (UNIFEI), realizado em Junho/Julho de 2025. O objetivo foi aplicar conceitos fundamentais de programação e eletrônica através de uma série de desafios práticos utilizando a plataforma Arduino.
 
 O projeto foi desenvolvido em equipe, fomentando a colaboração e a resolução de problemas em conjunto.
 
