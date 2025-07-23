@@ -21,14 +21,15 @@ O projeto foi desenvolvido em equipe, fomentando a colaboração e a resolução
 
 O projeto consistiu em uma série de implementações com nível de complexidade crescente:
 
-* [cite_start]**Controles Básicos:** Ligar/Desligar LEDs, pisca-pisca com temporizadores (`delay`)[cite: 271, 325].
-* [cite_start]**Comunicação Serial:** Impressão de mensagens no monitor serial, com e sem laços de repetição (`for`, `if`)[cite: 283, 296].
-* [cite_start]**Simulação de Sistema Real:** Criação de um semáforo de trânsito com temporização correta das luzes.
-* [cite_start]**Leitura de Sensores Analógicos:** Leitura de valores de um potenciômetro e de um sensor de temperatura e umidade (DHT11)[cite: 361, 441].
-* [cite_start]**Controle de Atuadores:** Controle de brilho de LED (PWM), acionamento de buzzer e movimentação de um servo motor para posições específicas[cite: 371, 385, 416].
-* [cite_start]**Comunicação sem Fio:** Controle de componentes via Bluetooth[cite: 542].
-* [cite_start]**Interação Python + Arduino:** Desenvolvimento de um script em Python para controlar um robô via comunicação serial, criando jogos interativos como "Campo Minado" e "Robô Entregador".
-* [cite_start]**Código Estruturado:** Aplicação de conceitos de Programação Orientada a Objetos com a criação de uma classe `Motor` em C++ para controlar o robô de forma mais organizada[cite: 795, 908].
+**Controles Básicos:** Ligar/Desligar LEDs, pisca-pisca com temporizadores (`delay`).
+**Comunicação Serial:** Impressão de mensagens no monitor serial, com e sem laços de repetição (`for`, `if`).
+**Simulação de Sistema Real:** Criação de um semáforo de trânsito com temporização correta das luzes.
+**Leitura de Sensores Analógicos:** Leitura de valores de um potenciômetro e de um sensor de temperatura e umidade (DHT11).
+**Controle de Atuadores:** Controle de brilho de LED (PWM), acionamento de buzzer e movimentação de um servo motor para posições específicas.
+**Comunicação sem Fio:** Controle de componentes via Bluetooth.
+**Interação Python + Arduino:** Desenvolvimento de um script em Python para controlar um robô via comunicação serial, criando jogos interativos como "Campo Minado" e "Robô Entregador".
+**Código Estruturado:** Aplicação de conceitos de Programação Orientada a Objetos com a criação de uma classe `Motor` em C++ para controlar o robô de forma mais organizada.
+
 
 ---
 
