@@ -63,4 +63,4 @@ Este projeto foi um esforço conjunto e um grande aprendizado em equipe:
 -   Ana Carolina
 -   Fabricio
 
-*(Sinta-se à vontade para adicionar os links dos perfis dos seus colegas se eles tiverem e concordarem!)*
+
