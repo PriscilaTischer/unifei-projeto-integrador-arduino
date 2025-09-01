@@ -1,49 +1,66 @@
-# Projeto Integrador: Prática com Arduino e Programação - UNIFEI 2025/1
+# Projeto Integrador 2025/1: Robô Interativo com Arduino e Python
 
-![Foto da Apresentação](link_para_foto_da_apresentacao_aqui) 
-## 📝 Sobre o Projeto
+![GIF do Robô em Ação](link_para_um_gif_ou_foto_do_projeto_aqui)
 
-Este repositório documenta o desenvolvimento do Projeto Integrador (P.I.) do curso de Bacharelado em Ciência e Tecnologia da Universidade Federal de Itajubá (UNIFEI), realizado em Junho/Julho de 2025. O objetivo foi aplicar conceitos fundamentais de programação e eletrônica através de uma série de desafios práticos utilizando a plataforma Arduino.
-
-O projeto foi desenvolvido em equipe, fomentando a colaboração e a resolução de problemas em conjunto.
-
----
-
-## 🚀 Tecnologias Utilizadas
-
-![Arduino](https://skillicons.dev/icons?i=arduino)
-![C++](https://skillicons.dev/icons?i=cpp)
-![Python](https://skillicons.dev/icons?i=py)
+> **Status:** Concluído ✔️
+>
+> **Instituição:** Universidade Federal de Itajubá (UNIFEI)
+>
+> **Curso:** Bacharelado em Ciência e Tecnologia
 
 ---
 
-## 🛠️ Funcionalidades e Desafios Implementados
+### 📝 Resumo do Projeto
 
-O projeto consistiu em uma série de implementações com nível de complexidade crescente:
-
-* **Controles Básicos:** Ligar/Desligar LEDs, pisca-pisca com temporizadores (`delay`).
-* **Comunicação Serial:** Impressão de mensagens no monitor serial, com e sem laços de repetição (`for`, `if`).
-* **Simulação de Sistema Real:** Criação de um semáforo de trânsito com temporização correta das luzes.
-* **Leitura de Sensores Analógicos:** Leitura de valores de um potenciômetro e de um sensor de temperatura e umidade (DHT11).
-* **Controle de Atuadores:** Controle de brilho de LED (PWM), acionamento de buzzer e movimentação de um servo motor para posições específicas.
-* **Comunicação sem Fio:** Controle de componentes via Bluetooth.
-* **Interação Python + Arduino:** Desenvolvimento de um script em Python para controlar um robô via comunicação serial, criando jogos interativos como "Campo Minado" e "Robô Entregador".
-* **Código Estruturado:** Aplicação de conceitos de Programação Orientada a Objetos com a criação de uma classe `Motor` em C++ para controlar o robô de forma mais organizada.
-
+Este repositório documenta nosso primeiro **Projeto Integrador (P.I.)**, uma imersão prática no universo da programação embarcada e eletrônica. O desafio consistiu em construir e programar, do zero, um robô interativo controlado via Python, aplicando os conceitos aprendidos ao longo do semestre em um ambiente colaborativo e presencial.
 
 ---
 
-## 📁 Estrutura do Repositório
+### 🚀 Tecnologias e Ferramentas
 
-* **/códigos_arduino:** Contém todos os sketches (.ino) desenvolvidos para os desafios no Arduino.
-* **/códigos_python:** Contém o script em Python utilizado para o controle do robô.
-* **/imagens:** Contém fotos da apresentação e do processo de montagem.
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
-## 👥 Equipe (Grupo 4)
+### 🛠️ Principais Funcionalidades e Aprendizados
 
-* **Priscila Tischer de Zottis**
-* Simone
-* Ana Carolina 
-* Fabricio 
+O desenvolvimento foi dividido em etapas de complexidade crescente, resultando nas seguintes implementações:
+
+#### Eletrônica Básica e Atuadores
+-   💡 **Controle Digital:** Acionamento de LEDs com temporização e simulação de um semáforo de trânsito.
+-   🔊 **Feedback Sonoro:** Programação de um buzzer para emitir alertas.
+-   ⚙️ **Movimentação Precisa:** Controle de posição de um servo motor via PWM.
+
+#### Sensores e Coleta de Dados
+-   🌡️ **Leitura de Ambiente:** Coleta e exibição de dados de temperatura e umidade com o sensor DHT11.
+-   🎛️ **Controle Analógico:** Leitura de valores de um potenciômetro para controlar o brilho de um LED.
+
+#### Comunicação e Controle Avançado
+-   💻 **Comunicação Serial:** Troca de dados entre o Arduino e o computador.
+-   📱 **Controle sem Fio:** Implementação de controle de componentes via Bluetooth.
+-   🐍 **Integração Python + Arduino:** O ponto alto do projeto! Desenvolvemos um script em Python que se comunica com o robô para criar jogos interativos, como "Campo Minado" e "Robô Entregador", unindo software e hardware.
+-   🧩 **Programação Orientada a Objetos:** Para organizar o código, criamos uma classe `Motor` em C++, tornando o controle do robô mais modular e reutilizável.
+
+---
+
+### 📁 Estrutura do Repositório
+
+-   `📁 /códigos_arduino`: Contém todos os sketches (.ino) desenvolvidos para a placa Arduino.
+-   `📁 /códigos_python`: Contém o script em Python para controle interativo do robô.
+-   `📁 /imagens`: Arquivos de imagem, como fotos e esquemáticos do projeto.
+
+---
+
+### 👥 Equipe e Colaboração (Grupo 4)
+
+Este projeto foi um esforço conjunto e um grande aprendizado em equipe:
+
+-   **Priscila Tischer de Zottis** ([GitHub](https://github.com/PriscilaTischer) | [LinkedIn](https://www.linkedin.com/in/priscila-tischer/))
+-   Simone
+-   Ana Carolina
+-   Fabricio
+
+*(Sinta-se à vontade para adicionar os links dos perfis dos seus colegas se eles tiverem e concordarem!)*
