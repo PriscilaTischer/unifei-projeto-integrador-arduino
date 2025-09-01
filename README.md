@@ -1,6 +1,6 @@
 # Projeto Integrador 2025/1: Robô Interativo com Arduino e Python
 
-![GIF do Robô em Ação]https://github.com/PriscilaTischer/unifei-projeto-integrador-arduino/blob/df4c79f14339f0ef6070560a5cea3f0d354da6bb/gif.mp4
+![GIF do Robô em Ação](https://github.com/PriscilaTischer/unifei-projeto-integrador-arduino/blob/df4c79f14339f0ef6070560a5cea3f0d354da6bb/gif.mp4)
 
 > **Status:** Concluído ✔️
 >
